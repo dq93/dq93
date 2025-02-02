@@ -1,5 +1,6 @@
 <h1 align="center">Hello world 👋, I'm Daniel Quintanilla</h1>
-<h4>Born in El Salvador 🇸🇻, raised in NY, and living in CT. Fluent in English and Spanish, and beginner level Portuguese. Aspiring data scientist</h4>
+<h4>Born in El Salvador 🇸🇻, raised in NY, and living in CT. Fluent in English and Spanish, and beginner level Portuguese. Aspiring data scientist, currently honing my skills through
+The Knowledge House.</h4>
 <br></br>
 
 - 🌱 I’m currently learning Pandas 🐼, JSON and Portuguese.
