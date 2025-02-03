@@ -3,7 +3,7 @@
 The Knowledge House.</h4>
 <br></br>
 
-- 🌱 I’m currently learning Pandas 🐼, JSON, data analysis, and Portuguese.
+- 🌱 I’m currently learning Pandas 🐼, JSON, data analysis, statistics, and Portuguese.
 
 - 📫 How to reach me **danielquintanilladq93@gmail.com**
 
